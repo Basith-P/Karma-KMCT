@@ -1,0 +1,146 @@
+ @font-face {
+    font-family: "Origami";
+    src: url('Origami.ttf');
+  }
+  body{
+    padding: 0px;
+    margin: 0mm;
+}
+#temp{
+    height: 100vh;
+}
+footer{
+    position: relative;
+    width: 100%;
+}
+#foot{
+    background-color: #393737;
+    position: relative;
+    margin: 0px;
+    width: 100%;
+    height: 335px;
+}
+
+#cpr{
+    position: absolute;
+    width: 100%;
+    height: 57px;
+    left: 0px;
+    bottom: 0;
+    background: linear-gradient(90deg, #2EB4DE 0.83%, #0FB472 98.65%);
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+
+
+}
+
+#logo{
+    position: absolute;
+    width: 110.66px;
+    left: 99px;
+    top: 0;
+    margin-top: 70px;
+}
+
+#kar{
+    
+    position: absolute;
+    color: #FFFFFF;
+    width: 206px;
+    left: 222.07px;
+    margin-top: 100px;
+
+    
+    font-family: 'Origami';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 44.7966px;
+    line-height: 43px;
+}
+
+#kmct{
+    position: absolute;
+    width: 352.45px;
+    height: 87.66px;
+    left: 600.79px;
+    top: 0;
+    margin-top: 85px;
+}
+
+
+#insta{
+    position: absolute;
+    width: 39.74px;
+    height: 39.74px;
+    left: 1210px;
+    margin-top: 220px;
+    margin-left: 70px;
+}
+
+#fb{
+    position: absolute;
+    width: 37.44px;
+    height: 37.44px;
+    left: 1268.84px;
+    margin-top: 220px;
+    margin-left: 75px;
+}
+
+#yt{
+    position: absolute;
+    width: 54.25px;
+    height: 54.25px;
+    left: 1317.75px;
+    margin-top: 210px;
+    margin-left: 80px;
+
+}
+.lks{
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25.9782px;
+    line-height: 32px;
+    text-align: right;
+    color: #FFFFFF;
+
+}
+
+#home{
+    position: absolute;
+    width: 82px;
+    height: 32px;
+    left: 1365px;
+    top: 0px;
+    
+    
+}
+
+#about{
+    position: absolute;
+    width: 83px;
+    left: 1365px;
+    height: 32px;
+    top: 40px;
+}
+
+#events{
+    position: absolute;
+    height: 32px;
+    width: 91px;
+    left: 1360px;
+    top: 80px;
+
+}
+#contact{
+    position: absolute;
+    width: 148px;
+    height: 32px;
+    left: 1300px;
+    top: 120px;
+}
+a{
+    text-decoration: none;
+}
